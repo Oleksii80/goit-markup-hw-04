@@ -390,6 +390,7 @@ body {
 }
 
 /*----------Footer----------*/
+
 .footer-conteiner {
   display: flex;
   align-items: baseline;
@@ -423,9 +424,7 @@ body {
   letter-spacing: 0.02em;
   min-width: 264px;
 }
-.footer-social {
-  margin-left: 120px;
-}
+
 .footer-social-text {
   display: flex;
   justify-content: flex-start;
